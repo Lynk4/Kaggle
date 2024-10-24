@@ -8,3 +8,6 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 
 ---
 
+<img width="1440" alt="Screenshot 2024-10-25 at 3 45 58 AM" src="https://github.com/user-attachments/assets/51557451-ece2-493d-b372-b4a432b55107">
+
+---
